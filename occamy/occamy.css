@@ -1,0 +1,22 @@
+#titre{ text-align: center;
+    color: crimson;
+    border: 0.1em solid red; 
+    margin: 1em;
+    padding:1em;
+ }
+
+#sstitre { color: blue;
+        text-shadow: 0.2em 0.2em rgb(103, 219, 240);
+        font-size: 2em;
+        text-align: center;
+        
+}
+
+.img{ width: 15em;
+    height: 15em;
+
+}
+
+#texte { font-size: 3em;
+        text-align: center;
+    }
